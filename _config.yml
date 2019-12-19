@@ -30,7 +30,8 @@ twitter_username: bmaciag_de
 github_username:  bmaciag
 
 # Build settings
-theme: minima
+#theme: minima
+remote_theme: thelehhman/texture
 plugins:
   - jekyll-feed
 
